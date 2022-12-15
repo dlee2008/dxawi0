@@ -88,6 +88,24 @@
             "filterable": 1
         },
         {
+            "key": "Panghu",
+            "name": "胖虎(爬虫)",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ysgc",
+            "name": "影视工厂(爬虫)",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "type": 3,
@@ -284,6 +302,24 @@
             "name": "Anfuns(爬虫)",
             "type": 3,
             "api": "csp_Anfuns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ying",
+            "name": "樱动漫(爬虫)",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ysj",
+            "name": "异世界(爬虫)",
+            "type": 3,
+            "api": "csp_Ysj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -700,5 +736,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea67919eab371e56237c7e87855cad41"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
 }
