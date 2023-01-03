@@ -462,7 +462,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHhhd2kvMS9tYWluL3R2bGl2ZS50eHQ="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
