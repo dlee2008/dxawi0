@@ -40,15 +40,14 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
         {
-            "key": "AppTT",
-            "name": "图图(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
+            "key": "图图",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
         },
         {
             "key": "csp_Czsapp",
@@ -98,16 +97,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
-            "key": "TT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
         },
         {
             "key": "LiteApple",
@@ -183,13 +172,15 @@
             "filterable": 1
         },
         {
-            "key": "在线之家",
-            "name": "在线之家(爬虫)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key": "AppTT",
+            "name": "图图(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "Dm84",
@@ -253,7 +244,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/tok$$$xxooo$$$qq112233"
         },
         {
             "key": "push_agent",
