@@ -40,14 +40,15 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
         {
-            "key": "图图",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+            "key": "AppTT",
+            "name": "图图(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "csp_Czsapp",
@@ -60,19 +61,19 @@
             "filterable": 1
         },
         {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
+            "key": "csp_BuLei",
+            "name": "布雷(爬虫)",
             "type": 3,
-            "api": "csp_Lezhu",
+            "api": "csp_BuLei",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
+            "key": "🐷",
+            "name": "乐猪(爬虫)",
             "type": 3,
-            "api": "csp_Lib",
+            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -99,19 +100,19 @@
             "ext": "bdc1c75081e5e477189a463baa47e392"
         },
         {
-            "key": "LiteApple",
-            "name": "小苹果(爬虫)",
+            "key": "Ddrk",
+            "name": "低端(爬虫)",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Panghu",
-            "name": "胖虎(爬虫)",
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
             "type": 3,
-            "api": "csp_Panghu",
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -163,24 +164,13 @@
             "filterable": 1
         },
         {
-            "key": "Ddrk",
-            "name": "低端(爬虫)",
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
             "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "AppTT",
-            "name": "图图(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "Dm84",
@@ -669,5 +659,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cf5098dbf27d5db9464c927169e5e1c8"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;4bd2275690262e2b338920201a674539"
 }
