@@ -190,7 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "YiSo",
@@ -201,7 +201,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "PanSou",
@@ -212,7 +212,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "UpYun",
@@ -223,18 +223,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "Zhaozy",
             "name": "找资源┃搜索",
             "type": 3,
             "api": "csp_Zhaozy",
-            "playerType": 1,
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok$$$xxooo$$$qq112233"
+            "ext": "http://ali.饭太硬.ml/nn$$$xxooo$$$qq112233"
         },
         {
             "key": "push_agent",
@@ -245,7 +244,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "IQIYI",
@@ -659,5 +658,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
 }
