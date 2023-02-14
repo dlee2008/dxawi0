@@ -347,13 +347,66 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "dr_兔小贝",
+            "name": "📚儿童启蒙",
+            "type": 3,
+            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "少儿教育",
+            "name": "📚少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/json/少儿教育.json"
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚小学课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/json/小学课堂.json"
+        },
+        {
+            "key": "初中课堂",
+            "name": "📚初中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/json/初中课堂.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/json/高中课堂.json"
         }
     ],
-       "lives":[
-{"group":"redirect","channels":[
-    {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHhhd2kvMS9tYWluL3R2bGl2ZS50eHQ="
-    ]}]}],
+      "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ],
      "parses": [
         {
             "name": "Json聚合",
