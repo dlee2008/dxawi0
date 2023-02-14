@@ -3,7 +3,7 @@
     "sites": [ 
         {
             "key": "Kunyu77",
-            "name": "鲲鱼77(爬虫)",
+            "name": "鲲鱼77",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "快看(爬虫)",
+            "name": "快看",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -20,18 +20,147 @@
             "filterable": 1
         },
         {
-            "key": "Voflix",
-            "name": "Voflix(爬虫)",
+            "key": "csp_YQKAPP",
+            "name": "一起看",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api-tx.shumaxc.xyz"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.bulei.cc"
+        },
+        {
+            "key": "csp_555",
+            "name": "555",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "csp_Yht",
+            "name": "野荷塘",
+            "type": 3,
+            "api": "csp_Yht",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yehetang.cc"
+        },
+        {
+            "key": "csp_fantuan",
+            "name": "饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
+        },
+        {
+            "key": "Tian",
+            "name": "天天",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
+        {
+            "key": "csp_Vofl",
+            "name": "Voflix",
             "type": 3,
             "api": "csp_Voflix",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
+            "key": "csp_Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
+            "key": "csp_Ysgc",
+            "name": "影视工厂",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ysgc.fun"
+        },
+        {
+            "key": "csp_Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://libvio.me"
+        },
+        {
+            "key": "csp_Auete",
+            "name": "Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lgyy",
+            "name": "蓝光影院",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.lgyy.tv"
+        },
+        {
             "key": "农民",
-            "name": "农民(爬虫)",
+            "name": "农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -40,105 +169,17 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
         {
-            "key": "csp_AppTT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
-        },
-        {
-            "key": "AppTT",
-            "name": "图图(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长(爬虫)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "布雷(爬虫)",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉(爬虫)",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "playerType":2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Tian",
-            "name": "天天(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
-            "key": "Ddrk",
-            "name": "低端(爬虫)",
+            "key": "csp_DiDuan",
+            "name": "低端",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "LiteApple",
-            "name": "小苹果(爬虫)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ysgc",
-            "name": "影视工厂(爬虫)",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
+            "name": "Bttoo",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -146,45 +187,45 @@
             "filterable": 1
         },
         {
+            "key": "LiteApple",
+            "name": "小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Coke",
-            "name": "Cokemv(爬虫)",
+            "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Smdyy",
+            "name": "神马电影院",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bd",
+            "name": "哔嘀影视",
+            "type": 3,
+            "api": "csp_Bdys01",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bdys01",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Dm84",
-            "name": "动漫巴士(爬虫)",
+            "name": "动漫巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -193,10 +234,9 @@
         },
         {
             "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
+            "name": "小纸条",
             "type": 3,
             "api": "csp_Paper",
-            "playerType":2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -236,16 +276,6 @@
             "ext": "http://ali.饭太硬.ml/token"
         },
         {
-            "key": "Zhaozy",
-            "name": "找资源┃搜索",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token$$$xxooo$$$qq112233"
-        },
-        {
             "key": "push_agent",
             "name": "手机┃推送",
             "type": 3,
@@ -258,7 +288,7 @@
         },
         {
             "key": "IQIYI",
-            "name": "奇异果(解析)",
+            "name": "奇异(解析)",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -267,7 +297,7 @@
         },
         {
             "key": "QQ",
-            "name": "企鹅(解析)",
+            "name": "腾讯(解析)",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -293,91 +323,31 @@
             "filterable": 1
         },
         {
-            "key": "Nbys",
-            "name": "泥巴(墙外)",
-            "type":3,
-            "api": "csp_Nbys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Xiaoh",
-            "name": "Xiaoh(墙外)",
-            "type":3,
-            "api": "csp_Xiaoh",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "If101",
-            "name": "101(墙外)",
-            "type":3,
+            "key": "csp_If101",
+            "name": "If101┃墙外",
+            "type": 3,
             "api": "csp_If101",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Bili",
-            "name": "Bili(爬虫)",
+            "key": "csp_Nbys",
+            "name": "泥视频┃墙外",
             "type": 3,
-            "api": "csp_Bili",
+            "api": "csp_NiNi",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "filterable": 1
         },
         {
-            "key": "知识",
-            "name": "知识学堂(爬虫)",
+            "key": "csp_trj",
+            "name": "唐人街┃墙外",
             "type": 3,
-            "api": "csp_Bili",
+            "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
-        },
-        {
-            "key": "儿童",
-            "name": "儿童(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
-        },
-        {
-            "key": "小学",
-            "name": "小学(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
-        },
-        {
-            "key": "初中",
-            "name": "初中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
-        },
-        {
-            "key": "高中",
-            "name": "高中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "filterable": 1
         }
     ],
        "lives":[
@@ -395,6 +365,11 @@
             "name": "Web聚合",
             "type": 3,
             "url": "Web"
+        },
+        {
+            "name": "tkys",
+            "type": 1,
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
         {
             "name": "三三解析",
@@ -658,5 +633,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;3af7eaf917576c6392ce1a07981895ef"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;92a58defedc77459ca0139972fb05754"
 }
