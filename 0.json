@@ -168,10 +168,19 @@
             "filterable": 0
         },
         {
-            "key": "Bttoo",
-            "name": "Bttoo",
+            "key": "csp_Bttoo",
+            "name": "BTtwo",
             "type": 3,
-            "api": "csp_Bttoo",
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_panghu",
+            "name": "胖虎",
+            "type": 3,
+            "api": "csp_Panghu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
