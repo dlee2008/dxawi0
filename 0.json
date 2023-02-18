@@ -44,7 +44,7 @@
             "key": "csp_AppTT",
             "name": "图图",
             "type": 3,
-            "api": "csp_AppTT2",
+            "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -754,5 +754,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;F3687D6E511A73CAF72F4757A04518B2"
 }
