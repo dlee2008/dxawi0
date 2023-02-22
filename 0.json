@@ -2,6 +2,24 @@
 {
     "sites": [ 
         {
+            "key": "Kunyu77",
+            "name": "鲲鱼77",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -11,16 +29,6 @@
             "filterable": 1,
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
-        {
-            "key": "csp_fantuan",
-            "name": "饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
-        },
         {
             "key": "csp_AppTT",
             "name": "图图",
@@ -55,24 +63,6 @@
             "name": "两个变态",
             "type": 3,
             "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Kunyu77",
-            "name": "鲲鱼77",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -129,13 +119,14 @@
             "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
         },
         {
-            "key": "csp_Vofl",
-            "name": "Voflix",
+            "key": "csp_fantuan",
+            "name": "饭团",
             "type": 3,
-            "api": "csp_Voflix",
+            "api": "csp_Fantuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
         },
         {
             "key": "csp_Xinsj",
@@ -168,15 +159,6 @@
             "ext": "https://libvio.me"
         },
         {
-            "key": "csp_Auete",
-            "name": "Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Lgyy",
             "name": "蓝光影院",
             "type": 3,
@@ -186,6 +168,24 @@
             "filterable": 1,
             "ext": "https://www.lgyy.tv"
         },
+        {
+            "key": "csp_Vofl",
+            "name": "Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },     
         {
             "key": "csp_panghu",
             "name": "胖虎",
