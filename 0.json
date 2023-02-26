@@ -37,7 +37,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
+            "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
         },
         {
             "key": "csp_Czsapp",
@@ -249,51 +249,51 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "YiSo",
-            "name": "易搜┃搜索",
+            "name": "易搜",
             "type": 3,
             "api": "csp_YiSo",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "PanSou",
-            "name": "盘搜┃搜索",
+            "name": "盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "UpYun",
-            "name": "Up搜┃搜索",
+            "name": "云搜",
             "type": 3,
             "api": "csp_UpYun",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "push_agent",
-            "name": "手机┃推送",
+            "name": "推送",
             "type": 3,
             "api": "csp_Push",
             "playerType": 1,
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "IQIYI",
@@ -333,7 +333,7 @@
         },
         {
             "key": "csp_If101",
-            "name": "If101┃墙外",
+            "name": "If101(墙外)",
             "type": 3,
             "api": "csp_If101",
             "searchable": 1,
@@ -342,7 +342,7 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "泥视频┃墙外",
+            "name": "泥视频(墙外)",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -351,7 +351,7 @@
         },
         {
             "key": "csp_trj",
-            "name": "唐人街┃墙外",
+            "name": "唐人街(墙外)",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
@@ -759,5 +759,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;5e95879c0d1cd5c5e97d7840efcc74e7"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c"
 }
