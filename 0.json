@@ -1,7 +1,6 @@
 
 {
-    "sites": [ 
-        
+    "sites": [      
         {
             "key": "csp_Xinsj",
             "name": "新视觉",
@@ -106,6 +105,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api-tx.shumaxc.xyz"
+        },
+        {
+            "key": "csp_555",
+            "name": "555影视",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.bulei.cc"
         },
         {
             "key": "csp_Zxzj",
