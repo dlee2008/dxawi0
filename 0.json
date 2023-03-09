@@ -2,14 +2,13 @@
 {
     "sites": [      
         {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
+            "key": "csp_AppMr",
+            "name": "Mr",
             "type": 3,
-            "api": "csp_Xinsj",
+            "api": "csp_AppMr",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy2.com"
+            "filterable": 1
         },
         {
             "key": "csp_Kunyu77",
@@ -60,13 +59,14 @@
             "filterable": 1
         }, 
         {
-            "key": "csp_AppMr",
-            "name": "Mr",
+            "key": "csp_Xinsj",
+            "name": "新视觉",
             "type": 3,
-            "api": "csp_AppMr",
+            "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
         },
         {
             "key": "csp_DiDuan",
