@@ -11,16 +11,6 @@
             "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
         },
         {
-            "key": "Pang",
-            "name": "胖虎",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "c41fdb671b20925c76fa9b6ff8bad027"
-        },
-        {
             "key": "Ddys",
             "name": "低端",
             "type": "3",
@@ -81,16 +71,6 @@
             "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
         },
         {
-            "key": "Lib",
-            "name": "Libvio",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
-        }, 
-        {
             "key": "Zxzj",
             "name": "在线",
             "type": "3",
@@ -109,14 +89,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
-        },
-        {
-            "key": "AList",
-            "name": "AList",
-            "type": "3",
-            "api": "csp_AList",
-            "searchable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+        }
         }
     ],
     "lives": [
@@ -362,6 +335,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper": "https://picsum.photos/1280/720/?blur=5",
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/ts.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"
 }
