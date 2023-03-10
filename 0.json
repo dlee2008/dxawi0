@@ -12,7 +12,7 @@
         },
         {
             "key": "csp_Kunyu77",
-            "name": "鲲鱼77",
+            "name": "77",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -36,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/nm.json"
         }, 
         {   
             "key":"csp_AppTT",
@@ -58,16 +58,6 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy2.com"
-        },
         {
             "key": "csp_DiDuan",
             "name": "低端",
@@ -94,6 +84,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
         },
         {
             "key": "csp_YQKAPP",
@@ -348,14 +348,14 @@
             "filterable": 1
         },
         {
-            "key": "dr_兔小贝",
-            "name": "儿童启蒙",
+            "key": "幼儿教育",
+            "name": "幼儿教育",
             "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx1.json"
         },
         {
             "key": "少儿教育",
@@ -365,7 +365,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/少儿教育.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx2.json"
         },
         {
             "key": "小学课堂",
@@ -375,7 +375,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/小学课堂.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx3.json"
         },
         {
             "key": "初中课堂",
@@ -385,7 +385,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/初中课堂.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx4.json"
         },
         {
             "key": "高中教育",
@@ -395,7 +395,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/高中课堂.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx5.json"
         }
     ],
       "lives": [
