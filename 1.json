@@ -21,6 +21,36 @@
             "ext": "1cc92323700909e7d46623bc85b958d6"
         },
         {
+            "key": "世界杯",
+            "name": "一起看",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8e3aefcba838d8dc5102ac786719d837"
+        },
+        {
+            "key": "Lib",
+            "name": "Libvio",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
+        },
+        {
+            "key": "LiteApple",
+            "name": "苹果",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "6deed4548c44b18d268a5d828f04d86e"
+        },
+        {
             "key": "Dm84",
             "name": "动漫",
             "type": "3",
