@@ -348,8 +348,18 @@
             "filterable": 1
         },
         {
-            "key": "幼儿教育",
-            "name": "幼儿教育",
+            "key": "dr_兔小贝",
+            "name": "儿童启蒙",
+            "type": 3,
+            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "课堂教育",
+            "name": "课堂教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
