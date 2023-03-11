@@ -49,6 +49,24 @@
             "filterable": 0
         },
         {
+            "key": "LiteApple",
+            "name": "小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Coke",
+            "name": "Cokemv",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Voflix",
             "name": "Voflix",
             "type": 3,
@@ -179,24 +197,6 @@
             "name": "胖虎",
             "type": 3,
             "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "LiteApple",
-            "name": "小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Coke",
-            "name": "Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
