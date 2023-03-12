@@ -291,8 +291,38 @@
             "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
+            "key": "teng",
+            "name": "企鹅(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ai",
+            "name": "奇异果(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MGT",
+            "name": "芒果(解析)",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
             "key": "csp_SP360",
-            "name": "360",
+            "name": "360(解析)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -678,5 +708,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;21b08989bf6fec5203e7726180d77082"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;be59a9e50ae1bae8a545d1a54974ff47"
 }
