@@ -111,6 +111,16 @@
             "ext": "23a412dda32885ae2bcb97b956cd7ad4"
         },
         {
+            "key": "SP360",
+            "name": "SP360",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "9248c57eb22ace4a3431fbd1a979465f"
+        },
+        {
             "key": "Xiaoh",
             "name": "Xiaoh",
             "type": "3",
@@ -129,6 +139,33 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
+    "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "0",
+            "type": 1,
+            "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
+        },
+        {
+            "name": "1",
+            "type": 1,
+            "url": "http://j.grelighting.cn/parser/?url="
+        } 
+        ],
     "flags": [
         "youku",
         "qq",
