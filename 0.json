@@ -13,7 +13,7 @@
         },
         {
             "key": "csp_YQKAPP",
-            "name": "一起看",
+            "name": "一起",
             "type": 3,
             "api": "csp_YQKAPP",
             "playerType": 2,
@@ -55,7 +55,7 @@
         },
         {
             "key": "csp_apple",
-            "name": "小苹果",
+            "name": "苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
@@ -87,7 +87,7 @@
         }, 
         {
             "key": "csp_Xinsj",
-            "name": "新视觉",
+            "name": "新视",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -95,6 +95,15 @@
             "filterable": 1,
             "ext": "https://www.6080dy2.com"
         },
+        {
+            "key": "csp_panghu",
+            "name": "胖虎",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
         {
             "key": "csp_Czsapp",
             "name": "厂长",
@@ -105,6 +114,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "csp_DiDuan",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },   
         {
             "key": "csp_Lib",
             "name": "Libvio",
@@ -117,28 +135,10 @@
             "ext": "https://tv.libvio.cc/"
         },
         {
-            "key": "csp_DiDuan",
-            "name": "低端",
+            "key": "csp_Auete",
+            "name": "Auete",
             "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_panghu",
-            "name": "胖虎",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        {
-            "key": "csp_Smdyy",
-            "name": "神马",
-            "type": 3,
-            "api": "csp_Smdyy",
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -171,6 +171,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_zxzjH3",
+            "name": "在线H3",
+            "type": 3,
+            "api": "csp_ZxzjH3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzjhd.com"
+        },
+        {
             "key": "BuLei",
             "name": "布雷",
             "type": 3,
@@ -179,6 +189,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.bulei.cc"
+        },
+        {
+            "key": "csp_Smdyy",
+            "name": "神马",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Ysgc",
@@ -191,16 +210,6 @@
             "ext": "https://www.ysgc.fun"
         },
         {
-            "key": "csp_zxzjH3",
-            "name": "在线H3",
-            "type": 3,
-            "api": "csp_ZxzjH3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
-        },
-        {
             "key": "csp_Zxzj",
             "name": "在线",
             "type": 3,
@@ -208,16 +217,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        },   
         {
             "key": "csp_Nkdy",
             "name": "难看",
@@ -239,7 +239,7 @@
         },
         {
             "key": "Dm84",
-            "name": "动漫巴士",
+            "name": "动漫",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -248,7 +248,7 @@
         },
         {
             "key": "csp_Paper",
-            "name": "小纸条",
+            "name": "纸条",
             "type": 3,
             "api": "csp_Paper",
             "playerType": 1,
@@ -260,7 +260,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "找资源",
+            "name": "找源",
             "type": 3,
             "api": "csp_Zhaozy",
             "playerType": 1,
