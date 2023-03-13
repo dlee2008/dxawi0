@@ -155,6 +155,16 @@
             "ext": "https://www.ysgc.fun"
         },
         {
+            "key": "csp_zxzjH3",
+            "name": "在线H3",
+            "type": 3,
+            "api": "csp_ZxzjH3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzjhd.com"
+        },
+        {
             "key": "csp_Zxzj",
             "name": "在线",
             "type": 3,
@@ -198,16 +208,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_zxzjH3",
-            "name": "在线H3",
-            "type": 3,
-            "api": "csp_ZxzjH3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
         },
         {
             "key": "csp_Bd",
