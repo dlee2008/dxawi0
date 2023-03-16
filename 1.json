@@ -1,6 +1,26 @@
 {
     "sites": [
         {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "459b1cb892e317546676a2c9dcec2bff"
+        },
+        {
+            "key": "Kunyu77",
+            "name": "七七",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
+        },
+        {
             "key": "世界杯",
             "name": "一起看",
             "type": "3",
@@ -31,14 +51,14 @@
             "ext": "b2e573ff040fcd54b50475660ee1a7d1"
         },
         {
-            "key": "Smdyy",
-            "name": "神马",
+            "key": "Lib",
+            "name": "Libvio",
             "type": "3",
             "api": "csp_Dora",
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "16705ee9f4764be8499806f52d4bf1e7"
+            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
         },
         {
             "key": "Ddys",
@@ -61,16 +81,6 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
-            "key": "IKan",
-            "name": "爱看",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-        },
-        {
             "key": "Czsapp",
             "name": "厂长",
             "type": "3",
@@ -79,27 +89,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "8ee655f702d0d21f3643504783babbc3"
-        },
-        {
-            "key": "Kuaikan",
-            "name": "快看",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "459b1cb892e317546676a2c9dcec2bff"
-        },
-        {
-            "key": "Kunyu77",
-            "name": "七七",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
-        },
+        },  
         {
             "key":"独播库",
             "name":"独播库",
@@ -128,14 +118,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
-        },
-        {
-            "key": "AList",
-            "name": "AList",
-            "type": "3",
-            "api": "csp_AList",
-            "searchable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
         },
         {
             "key": "Cokemv",
@@ -186,17 +168,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
-        },
+        },      
         {
             "key": "Dy555",
             "name": "555",
@@ -539,5 +511,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/ss.jar;md5;28ed333efe635e98ddd64ab99e38c7e8"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/ss.jar;md5;4fd67480c4123c6c91f7181a92302ae4"
 }
