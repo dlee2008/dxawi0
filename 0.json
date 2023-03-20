@@ -12,19 +12,8 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/nm.json"
         },
         {
-            "key": "csp_Paper",
-            "name": "纸条",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
             "key": "csp_YQKAPP",
-            "name": "一起",
+            "name": "一起看",
             "type": 3,
             "api": "csp_YQKAPP",
             "playerType": 2,
@@ -32,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://api-tx.shumaxc.xyz"
+            "ext": "https://api-tx.11ty.top"
         },
         {
             "key": "csp_77",
@@ -65,12 +54,32 @@
             "filterable": 1
         },
         {
+            "key": "csp_MeiJu69",
+            "name": "69美剧",
+            "type": 3,
+            "api": "csp_MeiJu69",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.69mj.com/"
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://v.bulei.cc/"
+        },
+        {
             "key": "csp_apple",
-            "name": "苹果",
+            "name": "小苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
-            "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -98,17 +107,6 @@
             "ext": "https://www.6080dy3.com"
         },
         {
-            "key": "csp_BuLei",
-            "name": "布雷",
-            "type": 3,
-            "api": "csp_BuLei",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.bulei.cc"
-        },
-        {
             "key": "csp_fantuan",
             "name": "饭团",
             "type": 3,
@@ -128,6 +126,17 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
+        {
+            "key": "csp_Paper",
+            "name": "纸条",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken"
+        },
         {
             "key": "csp_Czsapp",
             "name": "厂长",
@@ -314,46 +323,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "teng",
-            "name": "企鹅(解析)",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ai",
-            "name": "奇异果(解析)",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MGT",
-            "name": "芒果(解析)",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "csp_SP360",
-            "name": "360(解析)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "csp_If101",
@@ -733,5 +702,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;f0b88d8b6282399207d998a7106bb1ec"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc"
 }
