@@ -427,15 +427,25 @@
             "url": "Sequence"
         },
         {
-            "name": "0",
+            "name": "a",
             "type": 1,
             "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
         },
         {
-            "name": "1",
+            "name": "b",
             "type": 1,
             "url": "http://j.grelighting.cn/parser/?url="
-        } 
+        },
+        {
+            "name": "c",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "d",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        }
         ],
     "flags":[
 "youku",
