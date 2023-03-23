@@ -138,17 +138,6 @@
             "filterable": 1
         }, 
         {
-            "key": "csp_Paper",
-            "name": "纸条",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
             "key": "csp_Czsapp",
             "name": "厂长",
             "type": 3,
@@ -301,6 +290,17 @@
             "changeable": 0
         },
         {
+            "key": "csp_Paper",
+            "name": "纸条",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken"
+        },
+        {
             "key": "YiSo",
             "name": "一搜(搜索)",
             "type": 3,
@@ -335,7 +335,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "找资源",
+            "name": "找资源(搜索)",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
