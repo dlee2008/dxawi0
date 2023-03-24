@@ -73,7 +73,6 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-陶瓷高,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 中国教育-1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
 中国教育-4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
