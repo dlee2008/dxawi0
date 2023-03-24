@@ -2,6 +2,15 @@
 {
     "sites": [      
         {
+            "key": "csp_kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -16,15 +25,6 @@
             "name": "七七",
             "type": 3,
             "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -87,6 +87,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key": "csp_FanYY",
+            "name": "饭影音",
+            "type": 3,
+            "api": "csp_FanYY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_MeiJu69",
@@ -741,5 +751,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;61bca6e5fd49bef5a2834109f23303a9"
 }
