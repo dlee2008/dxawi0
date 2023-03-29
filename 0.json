@@ -11,26 +11,6 @@
             "filterable": 1
         },
         {
-            "key":"T4-shtv",
-            "name":"烧火",
-            "type":4,
-            "api":"http://81.68.89.191:16888/Php/shtv.php",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "changeable":1
-        },
-        {
-            "key":"T4-Zdytv",
-            "name":"爱4k",
-            "type":4,
-            "api":"http://81.68.89.191:16888/Php/zdytv.php",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
-        },
-        {
             "key": "农民",
             "name": "农民",
             "type": 3,
